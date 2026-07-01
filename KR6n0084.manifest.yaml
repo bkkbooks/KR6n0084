@@ -1,0 +1,54 @@
+canonical_identifier: bkk:krp/KR6n0084/v1
+canonical_location: https://kanripo.org/bkk/KR6n0084/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 六門教授習定論
+  identifiers:
+    alt_id:
+    - T31n1607
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T31/T31n1607.xml
+    old_id: T31n1607
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit3
+- short: 宮
+  label: 宮
+  source_xml_id: wit4
+- short: 麗-CB
+  label: 麗-CB
+  source_xml_id: wit5
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6n0084_000.yaml, hash: 'sha256:415b15f69a77ba97167df61703890526f46ac53ae1a48d8c3dc3782cc66dc7da'}
+  - {seq: 1, filename: KR6n0084_001.yaml, hash: 'sha256:a57ed62b9cab8871e795478efa54258bff2d25742180151b6ac1b5b2f3f03f6c'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6n0084_001.markers.yaml, hash: 'sha256:0b1d99606db46ac5c40a878282ff6b0b0ab526cf589415c16d4e19c5cd952079'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6n0084_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4055
+  label: 六門教授習定論一卷
+  type: juan
+  level: 1
+hash: sha256:e96b7ab4ab030d8cf9b1f307fa619c90882bf525fd9a28b9b65ef538e0f46ba2
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

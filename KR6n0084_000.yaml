@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6n0084/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 六門教授習定論
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T31/T31n1607.xml
+    old_id: T31n1607
+hash: sha256:415b15f69a77ba97167df61703890526f46ac53ae1a48d8c3dc3782cc66dc7da
