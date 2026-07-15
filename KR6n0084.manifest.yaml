@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6n0084/v1
 canonical_location: https://kanripo.org/bkk/KR6n0084/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 六門教授習定論
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6n0084_000.yaml, hash: 'sha256:415b15f69a77ba97167df61703890526f46ac53ae1a48d8c3dc3782cc66dc7da'}
-  - {seq: 1, filename: KR6n0084_001.yaml, hash: 'sha256:a4e6263582e88a1a700ec8ffdd6a028185fe0e408ab759ab78d11d09c34496dd'}
+  - {seq: 1, filename: KR6n0084_001.yaml, hash: 'sha256:3025d7307faf52d80c9cdfff64ee8123946b1e3ae554ad62962d1e55ec9e00ed'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6n0084_000.markers.yaml, hash: 'sha256:b027d3626e2e792a4e810e82ca8740a44226a956f738cc771c4dc04393cfe16d'}
-  - {seq: 1, role: markers, filename: assets/KR6n0084_001.markers.yaml, hash: 'sha256:6ad16fe1311292d01290364334eae51083c7c93ee30a86ddbc26671d9a2cade3'}
+  - {seq: 1, role: markers, filename: assets/KR6n0084_001.markers.yaml, hash: 'sha256:b26388d8d24df7dccd69652b560c9c60c80af898382d1566b64d62f11cf52990'}
 table_of_contents:
 - ref:
     seq: 1
@@ -49,4 +49,7 @@ table_of_contents:
   label: 六門教授習定論一卷
   type: juan
   level: 1
-hash: sha256:12c16c9f364fbb7ca988cd695619b60b25b51e463adbda0f53103ded689a1dc9
+hash: sha256:3a00a606b64db00aa05e111a7e5f53e8dacd9051b5074dfb362fb9a74be6518a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
